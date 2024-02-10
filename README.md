@@ -3,6 +3,9 @@
 Assignment 1 </tt> :chess_pawn:
 </h1>
 
+### Name: Lina Sofía Ballesteros Merchán
+
+
 ![image](https://github.com/linasofi13/flc_assignment/assets/103126242/c8136719-8c3c-440a-9b3a-fdc646f93f24)
 
 Development of the proposed activity for the subject of Formal Languages and Compilers. Considering the language L = {x ∈ {0,1}
@@ -64,5 +67,3 @@ Follow these instructions to run the program:
      ```bash
    The DFA accepts the string ’1111’
     ```
-
-### Name: Lina Sofía Ballesteros Merchán
