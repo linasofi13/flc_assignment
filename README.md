@@ -65,4 +65,4 @@ Follow these instructions to run the program:
    The DFA accepts the string ’1111’
     ```
 
-
+### Name: Lina Sofía Ballesteros Merchán
