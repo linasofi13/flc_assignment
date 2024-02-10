@@ -16,6 +16,7 @@ Development of the proposed activity for the subject of Formal Languages and Com
 - The chosen language was Python.
 - The libray used was [Automata](https://caleb531.github.io/automata/) and the class used is [DFA](https://caleb531.github.io/automata/api/fa/class-dfa/) .**The library requires Python 3.8 or newer.**
 - The code editor used was Visual Studio Code.
+- The convention defined for representing the empty string is the character 'e'.
 
 ## Run the program
 
