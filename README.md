@@ -3,7 +3,9 @@
 Assignment 1 </tt> :chess_pawn:
 </h1>
 
-### Name: Lina Sofía Ballesteros Merchán
+### Names: 
+- Lina Sofía Ballesteros Merchán
+- Santiago Alvarez Díaz
 
 
 ![image](https://github.com/linasofi13/flc_assignment/assets/103126242/c8136719-8c3c-440a-9b3a-fdc646f93f24)
