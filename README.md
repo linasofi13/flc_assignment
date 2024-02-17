@@ -53,6 +53,7 @@ Follow these instructions to run the program:
    
     ```bash
      cd tarea_1_compi
+     cd flc_assignment
     ```
 
 3. Run the following in your command prompt:
