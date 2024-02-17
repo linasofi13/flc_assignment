@@ -33,6 +33,8 @@ Follow these instructions to run the program:
 
     ```bash
     cd tarea_1_compi
+
+    cd flc_assignment
     ```
   
 3. Make sure you have Python 3.8 or newer.
@@ -53,6 +55,7 @@ Follow these instructions to run the program:
    
     ```bash
      cd tarea_1_compi
+    
      cd flc_assignment
     ```
 
