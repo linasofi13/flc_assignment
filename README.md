@@ -20,7 +20,7 @@ Development of the proposed activity for the subject of Formal Languages and Com
 - The code editor used was Visual Studio Code.
 - The convention defined for representing the empty string is the character 'e'.
 
-## Run the program
+## Installing Requirements
 
 Follow these instructions to run the program:
 
