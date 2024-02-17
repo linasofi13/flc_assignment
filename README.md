@@ -10,7 +10,7 @@ Assignment 1 </tt> :chess_pawn:
 
 ![image](https://github.com/linasofi13/flc_assignment/assets/103126242/c8136719-8c3c-440a-9b3a-fdc646f93f24)
 
-Development of the proposed activity for the subject of Formal Languages and Compilers. Considering the language L = {x ∈ {0,1}
+Development of the proposed activity for the subject of Formal Languages and Compilers taught at EAFIT University by prof Sergio Ramírez. Considering the language L = {x ∈ {0,1}
 | x represents a multiple of three in binary} and the DFA that accepts said language, with the support of a Python library, the behavior of the automaton is simulated.
 
 ## About
